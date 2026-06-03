@@ -34,16 +34,6 @@ const events = [
         featured: true
     },
     {
-        id: 2,
-        title: "Adaptive Structures TC Meeting",
-        type: "meeting",
-        date: "2026-01-13",
-        time: "7:00 PM - 10:00 PM",
-        location: "Celebration 11, Hilton Orlando",
-        description: "Annual committee meeting. All members and interested participants welcome.",
-        featured: true
-    },
-    {
         id: 3,
         title: "Adaptive Structures Lecture",
         type: "lecture",
